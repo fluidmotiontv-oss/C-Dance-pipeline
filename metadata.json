@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Seedance 2.5 Pipeline Studio",
+  "description": "Complete start-to-finish cartoon animation pipeline for Dragon 9 using Seedance 2.5 (via C Dance), character turnaround sheets, audio-driven timing, multi-reference management, prompt engineering templates, and scene extensions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
